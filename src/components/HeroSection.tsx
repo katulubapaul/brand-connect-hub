@@ -36,10 +36,6 @@ const HeroSection = () => {
           </a>
         </div>
 
-        <blockquote className="mt-16 text-primary-foreground/60 italic text-sm max-w-lg mx-auto">
-          "A century ago, electricity transformed every major industry. AI is poised to bring about an equally profound transformation."
-          <span className="block mt-2 not-italic font-medium text-secondary/80">— Andrew Ng</span>
-        </blockquote>
       </div>
     </section>
   );
